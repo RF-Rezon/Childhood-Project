@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/we-are-monsters/static/css/main.345384f1.css",
+    "main.js": "/we-are-monsters/static/js/main.b29a3ee4.js",
+    "static/js/787.fbb2c275.chunk.js": "/we-are-monsters/static/js/787.fbb2c275.chunk.js",
+    "index.html": "/we-are-monsters/index.html",
+    "main.345384f1.css.map": "/we-are-monsters/static/css/main.345384f1.css.map",
+    "main.b29a3ee4.js.map": "/we-are-monsters/static/js/main.b29a3ee4.js.map",
+    "787.fbb2c275.chunk.js.map": "/we-are-monsters/static/js/787.fbb2c275.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.345384f1.css",
+    "static/js/main.b29a3ee4.js"
+  ]
+}
